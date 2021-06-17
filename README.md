@@ -1,4 +1,3 @@
 # REST-API-with-Python
 
-Flask am
-nd SQLAlchemy
+Flask and SQLAlchemy
